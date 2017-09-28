@@ -2,6 +2,10 @@
 
 > Vue移动端记事本
 
+#效果演示地址
+
+> https://dumengtao.github.io/vue-Mobile-notes/dist/
+
 ## Build Setup
 
 ``` bash
